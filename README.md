@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ggomul_logo_profile_circle.png" alt="꼬물 로고" width="200"/>
+</p>
+
 # 🐣 꼬물 (Ggomul)
 
 안녕!  
